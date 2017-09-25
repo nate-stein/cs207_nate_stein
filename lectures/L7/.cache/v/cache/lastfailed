@@ -1,0 +1,4 @@
+{
+  "test_L2.py::test_vector_weights_different_len": true,
+  "test_L2.py::test_with_weights": true
+}
